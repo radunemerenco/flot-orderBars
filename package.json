@@ -1,6 +1,7 @@
 {
   "name": "flot-orderbars",
   "version": "1.0.0",
+  "main": "js/jquery.flot.orderBars.js",
   "description": "Fork of the Flot OrderBars plugin.",
   "directories": {
     "example": "examples"
